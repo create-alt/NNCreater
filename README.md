@@ -32,3 +32,7 @@ torchvision==0.21.0+cu124
 さらには、Skip Connectionなどの構造も導入できるような工夫を施していきたいと思います。
 
 (U-netとかこれで作れたらいいなあ)
+
+## ライセンス
+
+This project is licensed under the GNU LESSER GENERAL PUBLIC LICENSE, see the LICENSE.txt file for details
